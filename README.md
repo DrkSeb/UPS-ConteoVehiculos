@@ -22,3 +22,6 @@ Las pruebas se realizaron en 3 avenidas de la ciudad de Quito-Ecuador
 ![Oclusion](https://user-images.githubusercontent.com/38445434/90816318-b206b080-e2f1-11ea-9bfa-f787cd34172c.jpg)
 ## Resultados obtenidos
 
+![resultados](https://user-images.githubusercontent.com/38445434/90817708-cb106100-e2f3-11ea-93dc-ecfd50124662.jpg)
+
+
