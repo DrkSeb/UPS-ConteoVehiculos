@@ -24,4 +24,7 @@ Las pruebas se realizaron en 3 avenidas de la ciudad de Quito-Ecuador
 
 ![resultados](https://user-images.githubusercontent.com/38445434/90817708-cb106100-e2f3-11ea-93dc-ecfd50124662.jpg)
 
+# Referencias 
+1. [Instalación JetsonStats](https://pypi.org/project/jetson-stats/1.6.2/)
+2. [Instalación OpenDataCam](https://opendatacam.github.io/opendatacam/documentation/USE_WITHOUT_DOCKER.html),para nuestro caso empleamos instalacion sin Docker
 
