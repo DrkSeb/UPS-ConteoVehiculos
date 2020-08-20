@@ -9,3 +9,16 @@ Es una plataforma diseñada y creada por Nvidia, que está enfocada para su uso 
 ### OpenDataCam 3(beta 1)
 Un software creado por [move lab](https://www.move-lab.com/), el cual tiene como función el conteo de objetos en tiempo real, a través de una cámara, archivo de video, cámaras ip.
 
+
+## Diagrama de Actividades del Sistema
+![actividades](https://user-images.githubusercontent.com/38445434/90815540-77e8df00-e2f0-11ea-8538-93b4d9ee7243.jpg)
+
+Las pruebas se realizaron en 3 avenidas de la ciudad de Quito-Ecuador 
+### Av. De los Conquistadores- el prototipo ubicado a una altura de 4 metros, para evitar la oclusión de los vehículos pequeños
+
+![Motocicleta gua](https://user-images.githubusercontent.com/38445434/90816595-26d9ea80-e2f2-11ea-9a87-2c14ea64453e.jpg)
+### Av. 6 de diciembre y Av. Francisco de Orellana- el prototipo ubicado a una altura de 1,45 metros, para forzar la oclusión de los vehículos pequeños y evaluar el detector
+
+![Oclusion](https://user-images.githubusercontent.com/38445434/90816318-b206b080-e2f1-11ea-9bfa-f787cd34172c.jpg)
+## Resultados obtenidos
+
