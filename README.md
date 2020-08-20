@@ -20,12 +20,18 @@ Para evaluar el rendimiento y uso del dispositivo se utiliza la herramienta Jets
 
 ## Las pruebas se realizaron en 3 avenidas de la ciudad de Quito-Ecuador
 Cada una de las pruebas en 3 horas del día 9-10 am, 1-2 pm y 4-5pm.
+
+![IMG_20200617_182828](https://user-images.githubusercontent.com/38445434/90822224-ba62e980-e2f9-11ea-8dea-9d9206b7a95a.jpg)
+![IMG_20200617_182842](https://user-images.githubusercontent.com/38445434/90822233-be8f0700-e2f9-11ea-94b0-43a2b96a1f38.jpg)
+
 ### Av. De los Conquistadores
 El prototipo ubicado a una altura de 4 metros, para evitar la oclusión de los vehículos pequeños
+
 ![Motocicleta gua](https://user-images.githubusercontent.com/38445434/90816595-26d9ea80-e2f2-11ea-9a87-2c14ea64453e.jpg)
 
 ### Av. 6 de diciembre y Av. Francisco de Orellana
 El prototipo ubicado a una altura de 1,45 metros, para forzar la oclusión de los vehículos pequeños y evaluar el detector
+
 ![Oclusion](https://user-images.githubusercontent.com/38445434/90816318-b206b080-e2f1-11ea-9bfa-f787cd34172c.jpg)
 
 ## Resultados obtenidos
