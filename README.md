@@ -9,6 +9,7 @@ Es una plataforma diseñada y creada por Nvidia, que está enfocada para su uso 
 ### OpenDataCam 3(beta 1)
 Un software creado por [move lab](https://www.move-lab.com/), el cual tiene como función el conteo de objetos en tiempo real, a través de una cámara, archivo de video, cámaras ip.
 
+![PicsArt_08-20-03 43 21](https://user-images.githubusercontent.com/38445434/90823827-19c1f900-e2fc-11ea-85ed-d5d90d42cc70.jpg)
 
 ## Diagrama de Actividades del Sistema
 ![actividades](https://user-images.githubusercontent.com/38445434/90815540-77e8df00-e2f0-11ea-8538-93b4d9ee7243.jpg)
