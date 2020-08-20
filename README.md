@@ -13,7 +13,13 @@ Un software creado por [move lab](https://www.move-lab.com/), el cual tiene como
 ## Diagrama de Actividades del Sistema
 ![actividades](https://user-images.githubusercontent.com/38445434/90815540-77e8df00-e2f0-11ea-8538-93b4d9ee7243.jpg)
 
-## Las pruebas se realizaron en 3 avenidas de la ciudad de Quito-Ecuador 
+## Método de Evaluación
+Para evaluar el rendimiento y uso del dispositivo se utiliza la herramienta JetsonStats
+
+![metricas](https://user-images.githubusercontent.com/38445434/90820269-c00b0000-e2f6-11ea-8ad9-c832b154ab8b.jpg)
+
+## Las pruebas se realizaron en 3 avenidas de la ciudad de Quito-Ecuador
+Cada una de las pruebas en 3 horas del día 9-10 am, 1-2 pm y 4-5pm.
 ### Av. De los Conquistadores
 El prototipo ubicado a una altura de 4 metros, para evitar la oclusión de los vehículos pequeños
 ![Motocicleta gua](https://user-images.githubusercontent.com/38445434/90816595-26d9ea80-e2f2-11ea-9a87-2c14ea64453e.jpg)
@@ -24,6 +30,13 @@ El prototipo ubicado a una altura de 1,45 metros, para forzar la oclusión de lo
 
 ## Resultados obtenidos
 [Drive con Respaldo de Base de Datos](https://1drv.ms/u/s!As0bj9D3Nf6YgqR3FXj5KXx7dW_Fmw?e=1pThyH)
+
+### Nvidia Jetson Nano
+
+![jetsontab](https://user-images.githubusercontent.com/38445434/90821060-eda47900-e2f7-11ea-83f8-5f590f11d11c.png)
+![jetsonEnergia](https://user-images.githubusercontent.com/38445434/90820938-c3eb5200-e2f7-11ea-9fd8-28260504c349.png)
+
+### Métricas Machine Learning
 
 ![resultados](https://user-images.githubusercontent.com/38445434/90817708-cb106100-e2f3-11ea-93dc-ecfd50124662.jpg)
 
